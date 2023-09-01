@@ -16,4 +16,4 @@ If you find a bug you can use the issues here, or pm me.
 
 ## major changes
 
-0.0.8 - map: show always all quests (on first page and inside)
+0.0.8/0.0.9 - map: show always all quests (on first page and inside)
