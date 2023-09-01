@@ -13,3 +13,7 @@ It should be stored in the browser but since this is a beta data may be lost, th
 ## bugs
 
 If you find a bug you can use the issues here, or pm me.
+
+## major changes
+
+0.0.8 - map: show always all quests (on first page and inside)
