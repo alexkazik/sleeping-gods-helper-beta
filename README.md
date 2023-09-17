@@ -18,3 +18,10 @@ If you find a bug you can use the issues here, or pm me.
 
 * 0.0.8/0.0.9 - map: show always all quests (on first page and inside)
 * 0.0.14 - new "todo" settings
+
+## questions
+
+* are the icons/names clear?
+* which settings in todo (upper or lower) is better?
+* are the used keywords clear?
+* does the idea with hiding quests (in general or per action+location) work?
