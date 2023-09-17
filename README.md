@@ -25,3 +25,4 @@ If you find a bug you can use the issues here, or pm me.
 * which settings in todo (upper or lower) is better?
 * are the used keywords clear?
 * does the idea with hiding quests (in general or per action+location) work?
+* what else should I add to the info page?
